@@ -5,7 +5,7 @@ send_email = [
 ]
 
 [vars]
-SENDER_ADDRESS = "*@toong.eu.org"
+SENDER_ADDRESS = "wangliang@toong.eu.org"
 SENDER_NAME = "None"
 RECIPIENT_ADDRESS = "pantong1995@126.com"
 ALLOWED_ORIGINS = "*"
